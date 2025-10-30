@@ -1,3 +1,3 @@
-def call(){
-  echo "Hello lads"
+def call(String str="morning){
+  echo "Hello lads, very good ${str}"
 }
